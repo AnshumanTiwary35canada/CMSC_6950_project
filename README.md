@@ -73,8 +73,7 @@ Best and Worst Days:
 Significant daily swings are observed in stocks like Dell and Intel.
 Trading Insights:
 Weak correlations between trading volume and price changes suggest additional factors influence stock behavior.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 Contact
 For questions or suggestions, please reach out:
